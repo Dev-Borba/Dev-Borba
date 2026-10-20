@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+Web+%7C+Back-end+%7C+Automa%C3%A7%C3%A3o;Sempre+aprendendo+e+construindo+novos+projetos" alt="Apresentação animada" />
 
 <a href="https://github.com/Dev-Borba?tab=followers"><img src="https://img.shields.io/github/followers/Dev-Borba?label=Seguidores&style=for-the-badge&color=8B5CF6&labelColor=111827" alt="Seguidores no GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=Dev-Borba&label=Visitas+ao+perfil&color=8B5CF6&style=for-the-badge" alt="Visitas ao perfil" />
+
 
 </div>
 
